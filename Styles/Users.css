@@ -1,0 +1,86 @@
+#logo {
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.nav-link {
+    font-size: 30px;
+}
+
+#text {
+    padding-top: 10px;
+}
+
+#table {
+    margin-top: 15px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-image: url("../blogimage.jpg"); */
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    overflow: scroll;
+}
+
+.heading {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cont {
+    background-image: url("../blogimage.jpg");
+}
+
+#cards {
+    max-width: 1200px;
+    margin: auto;
+    background-color: transparent;
+    min-height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    margin: auto;
+    min-height: 300px;
+    background-color: black;
+    min-width: 400px;
+    max-width: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    padding: 15px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.title {
+    font-size: 34px;
+    font-weight: bold;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.UserID {
+    font-size: 28px;
+    font-weight: normal;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.desc {
+    font-size: 18px;
+    font-weight: normal;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
