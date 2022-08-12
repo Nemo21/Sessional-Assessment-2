@@ -71,16 +71,19 @@ body {
     font-size: 34px;
     font-weight: bold;
     font-family: Comic Sans MS, Comic Sans, cursive;
+    color: rgb(4, 4, 4);
 }
 
 .UserID {
     font-size: 28px;
     font-weight: normal;
     font-family: Comic Sans MS, Comic Sans, cursive;
+    color: rgb(4, 4, 4);
 }
 
 .desc {
     font-size: 18px;
     font-weight: normal;
     font-family: Comic Sans MS, Comic Sans, cursive;
+    color: rgb(4, 4, 4);
 }
